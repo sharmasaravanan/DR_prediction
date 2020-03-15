@@ -1,0 +1,11 @@
+numpy==1.17.2
+Keras==2.2.2
+pandas==0.23.1
+matplotlib==2.2.4
+tensorflow==1.13.2
+Werkzeug==0.15.6
+imutils==0.5.2
+Flask==1.1.1
+opencv_contrib_python==4.1.0.25
+ipython==7.13.0
+scikit_learn==0.22.2.post1
